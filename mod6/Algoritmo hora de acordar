@@ -1,0 +1,30 @@
+INÍCIO
+
+	1. Acordo;
+	2. Abro os olhos;
+	3. Desligo o despertador;
+	4. Levanto da cama;
+	5. Vou até o banheiro;
+	6. Abro a torneira da pia;
+	7. Lavo o rosto;
+	8. Fecho a torneira da pia;
+	9. Vou até cozinha;
+	10. Abro a geladeira;
+	11. Se possui ovos;
+		1. Pego os ovos;
+		2. Pego a Frigideira;
+		3. Quebro a casca dos ovos;
+		4. Coloco os ovos na frigideira;
+		5. Vou até o fogão;
+		6. Ligo o fogão;
+		7. Ponho a frigideira no fogo;
+		8. Desligo o Fogão;
+		9. Pego a Frigideira;
+		10. Pego um prato;
+		11. Ponho os ovos no prato;
+		12. Como os ovos;
+		13. Ponho o prato dentro da pia;
+	12. Se não possui ovos;
+	13. Fecho a geladeira;
+	
+FIM
